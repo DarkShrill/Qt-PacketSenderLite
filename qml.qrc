@@ -1,0 +1,10 @@
+<RCC>
+    <qresource prefix="/">
+        <file>main.qml</file>
+        <file>pics/GreenArrow.png</file>
+        <file>pics/Error.png</file>
+        <file>pics/Error_1.png</file>
+        <file>pics/Error_3.png</file>
+        <file>pics/send.png</file>
+    </qresource>
+</RCC>
