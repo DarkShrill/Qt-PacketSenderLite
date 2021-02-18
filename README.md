@@ -8,6 +8,6 @@ ENJOY :)
 
 ## Figure
 
-![image_1](pics/1.PNG)
-![image_2](pics/2.PNG)
-![image_3](pics/3.PNG)
+![image_1](pics/1.png)
+![image_2](pics/2.png)
+![image_3](pics/3.png)
